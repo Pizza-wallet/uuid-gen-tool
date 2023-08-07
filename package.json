@@ -1,0 +1,11 @@
+{
+  "name": "uuid-gen-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Pizza-wallet/uuid-gen-tool.git",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
